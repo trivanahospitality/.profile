@@ -77,7 +77,7 @@ We are a passionate group of developers, designers, and hospitality experts focu
 
 We'd love to hear from you! Whether you're a customer, partner, or just curious:
 
-- 🌐 Website: [Coming Soon]
+- 🌐 Website: https://trivanahospitality.com/login
 - 📧 Email: trivanahospitality@gmail.com  
 - 📱 Phone: +91-8209898022 
 - 📍 Office: [Bikaner, Rajasthan]
@@ -88,3 +88,4 @@ We'd love to hear from you! Whether you're a customer, partner, or just curious:
 
 Looking to join a growing team that's changing the way hospitality works?  
 Reach out – we’re always open to new talent and fresh ideas!
+
