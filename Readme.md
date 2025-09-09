@@ -57,7 +57,7 @@ We are a passionate group of developers, designers, and hospitality experts focu
     <img src="images/prakash.jpg" alt="Prakash Choudhary" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
     <br/>
     <strong>Prakash Choudhary</strong><br/>
-    <em>Software Engineer</em><br/>
+    <em>CEO</em><br/>
     📞 8209898022
   </div>
 
@@ -65,10 +65,23 @@ We are a passionate group of developers, designers, and hospitality experts focu
     <img src="images/nikhil.jpg" alt="Nikhill Banthia" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
     <br/>
     <strong>Nikhill Banthia</strong><br/>
-    <em>Software Engineer</em><br/>
+    <em>CFO</em></em><br/>
     📞 7014581250
   </div>
-
+  <div style="text-align: center;">
+    <img src="images/piyush.jpg" alt="Piyush" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
+    <br/>
+    <strong>Piyush Purohit</strong><br/>
+    <em>Frontend Developer</em><br/>
+    📞 6367483860
+  </div>
+   <div style="text-align: center;">
+    <img src="images/pankaj-photo2.jpg" alt="Pankaj" style="width: 100px; height: 100px; border-radius: 50%; object-fit: cover;" />
+    <br/>
+    <strong>Pankaj Kumavat</strong><br/>
+    <em>Frontend Developer</em><br/>
+    📞 7665380870
+  </div>
 </div>
 
 ---
@@ -88,4 +101,5 @@ We'd love to hear from you! Whether you're a customer, partner, or just curious:
 
 Looking to join a growing team that's changing the way hospitality works?  
 Reach out – we’re always open to new talent and fresh ideas!
+
 
